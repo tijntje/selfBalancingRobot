@@ -1,8 +1,10 @@
 #define dirPinLeft 7
-#define stepPinLeft 4
+#define stepPinLeft 10
+#define stepPinLeftNotUsed 4
 
 #define dirPinRight 13
-#define stepPinRight 12
+#define stepPinRight 9
+#define stepPinRightNotUsed 12
 #define motorInterfaceType 1
 #define MOTOR_ENABLE_PIN 8
 #define mpu_interrupt_pin 11
